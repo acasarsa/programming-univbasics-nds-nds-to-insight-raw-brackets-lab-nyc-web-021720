@@ -22,6 +22,7 @@ def directors_totals(nds)
     end
 
     result
+    binding.pry
   end
 
 
